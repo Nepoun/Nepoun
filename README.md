@@ -36,7 +36,7 @@ class WhoAmI:
    	DevelopSomeGames()
    	LearnAboutAI()
    	FinishCollege()
-   	# Há mais uns 15 objetivos aqui no meio :)
+   	# Assume there's 10 more items here :>
    
 ```
 
