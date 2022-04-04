@@ -70,5 +70,3 @@ class WhoAmI:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nepoun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Nepoun/nepoun/output/github-contribution-grid-snake.svg)
