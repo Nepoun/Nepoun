@@ -15,7 +15,7 @@
 </div>
 
 ---
-### 💜 Sobre mim:
+### 💜 About me:
 
 ```py
 class WhoAmI:
@@ -23,26 +23,26 @@ class WhoAmI:
    	studied_at = "FATEC"
    	hobbies = [
             'Gamedev',
-            'Animes e series',
-            'Jogos independentes!',
-            'algoritmos em python',
-            'Coca-cola'
+            'Watch anime',
+            'Indie games!',
+            'Python algorithm',
+            'Addicted to coca cola'
         ]
    
    def getCity():
    	return Sao_Jose_Dos_Campos()
    
    def Ambitions():
-   	CriarUmJogo()
-   	AprenderSobreIAs()
-   	FicarForte()
+   	DevelopSomeGames()
+   	LearnAboutAI()
+   	FinishCollege()
    	# Há mais uns 15 objetivos aqui no meio :)
    
 ```
 
 ---
 
-### :hammer_and_wrench: Linguagens e ferramentas :
+### :hammer_and_wrench: Languages and tools :
 
   
 <div align="center">
@@ -55,14 +55,14 @@ class WhoAmI:
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
-### 🎧 O que estou ouvindo agora:
+### 🎧 What i'm listening:
 <div align="center">
  
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dtetr3zyg65joryz00wkcvs94)
 
 </div>
 
-### 🔥 Status :
+### 🔥 Stats :
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nepoun&theme=dark&background=000000)](https://git.io/streak-stats)
