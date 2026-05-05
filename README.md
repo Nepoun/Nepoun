@@ -12,24 +12,26 @@
 local Antonio = {
     status   = "building stuff that (probably) works",
     based_in = "São José dos Campos, BR",
-    ship     = "FRAGMOS",  -- my indie game, yes it's happening
-    stack    = { "C#", "Lua", "TypeScript", "Node", "React", "Unity" },
+    ship     = "FRAGMOS",  -- my solo indie game, YES it's happening
+    stack    = { "C#", "Lua", "TypeScript", "Node", "React", "Unity", "Godot", "Ruby on Rails", "SQL/NoSql" },
 }
 
 function Antonio:when_not_coding()
-    return { "indie games", "anime", "coca-cola dependency", "more coding" }
+    return { "Random indie games", "Cooking", "more coding" }
 end
 ```
 
 ---
 
-### 🚀 my commits, but make it galaga
+### 🚀 my commits, but better
 
 <div align="center">
   <img src="gh-space-shooter.gif" alt="GitHub contributions as a space shooter"/>
 </div>
 
-> *each enemy is a commit. sparse week? skill issue (mine).*
+> *each enemy is a commit. I definitely need more enemies*
+
+> *Made by czl9707*
 
 ---
 
@@ -54,8 +56,8 @@ end
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nepoun&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nepoun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nepoun&show_icons=true&theme=vision-friendly-dark&hide=contribs&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nepoun&theme=vision-friendly-dark&hide_border=true&hide_progress=true&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
