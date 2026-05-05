@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/antonio-nepomuceno-04943720a) || [Portfolio](https://your-portfolio-url.com)
+[LinkedIn](https://www.linkedin.com/in/antonio-nepomuceno-04943720a) || [Portfolio](https://nepoun.dev/)
 
 </div>
 
