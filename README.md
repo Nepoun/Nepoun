@@ -14,10 +14,11 @@
 
 ```lua
 local Antonio = {
-    status    = "building stuff that (probably) works",
-    based_in  = "São José dos Campos, BR",
-    ship      = "FRAGMOS",  -- my solo indie game, YES it's happening
-    stack     = { "C#", "Lua", "TypeScript", "Node", "React", "Unity", "Godot", "Ruby on Rails", "SQL/NoSql" },
+    status = "building stuff that (probably) works",
+    based_in = "São José dos Campos, BR",
+    main_project = "FRAGMOS",  -- my solo indie game
+    side_project = "TESSERACT and CC:Bridge", -- Cool C++ projects
+    stack = { "C#", "C++", "TypeScript", "Node", "Unity", "Godot", "Java", "SQL/NoSQL", "Lua" }
 }
 
 function Antonio:when_not_coding()
@@ -33,13 +34,13 @@ end
   <img src="gh-space-shooter.gif" alt="GitHub contributions as a space shooter"/>
 </div>
 
-> *each enemy is a commit. I definitely need more enemies*
+> *Pretty cool right*
 
 > *Made by czl9707*
 
 ---
 
-### tools i actually use
+### tools i use a lot
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
